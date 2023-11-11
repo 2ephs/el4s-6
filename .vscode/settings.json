@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "ms-vsliveshare.vsliveshare"
+  },
+  "editor.tabSize": 2,
+  "cSpell.words": ["hookform"]
+}
