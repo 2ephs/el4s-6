@@ -38,7 +38,7 @@ export default function Home() {
         同好の方は<a href="/private">此方</a>へ…キリ番踏み逃げ禁止!
       </Typography>
 
-      <p style={{ display: 'none' }}>秘密の言葉は「password」</p>
+      <p style={{ display: 'none' }}>秘密の言葉は「深夜の遊び人」</p>
     </Box>
   );
 }

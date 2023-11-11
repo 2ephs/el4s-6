@@ -7,7 +7,7 @@ const customErrorMap: z.ZodErrorMap = () => {
 export const schema = z.object({
   password: z
     .string({ errorMap: customErrorMap })
-    .regex(/^password$/, 'パスワードが違うよ！'),
+    .regex(/^深夜の遊び人$/, 'パスワードが違うよ！'),
 });
 
 export type Schema = z.infer<typeof schema>;
